@@ -1,0 +1,81 @@
+* /* universal selectors */
+{
+	font-family: MV Boli;
+}
+
+/* group selectors */
+
+h1, h2, h5 {
+	text-align: center; 
+}
+
+div, h5 {
+	background-color: rgba(300, 300, 300, 0.9);
+}
+
+/* class selectors */
+
+.jam {
+	color: darkblue;
+}
+
+.map-link {
+	color: darkblue;
+}
+
+.border {
+	padding: 5px;
+	border-style: dashed;
+	border-color: #BE8025;
+	border-radius: 10px;
+}
+
+body {
+	background-image: url("/presentasi/images/bookcafe.jpg") ;
+	background-position: center;
+}
+
+h1 {
+	color: black;
+	background-color: hsl(180, 100%, 25%) ;
+	margin-top: 40px;
+	margin-bottom: 70px;
+	border-style: solid;
+	border-width: 5px;
+}
+
+P {
+	text-align: justify;
+	font-size : 15px;
+	color: black;
+	float: left;
+
+}
+
+div {
+	padding: 20px;
+	height: 399px;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	margin-left: 110px;
+	margin-right: 110px;
+	border-style: solid;
+}
+
+h2 { background-color: #BE8025 ;
+	color: black;
+
+}
+
+img { width: 150px; 
+	height: 150px;
+	margin: 5px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	:hover {
+		color: darkred;
+	}
+}
