@@ -34,7 +34,8 @@ div, h5 {
 body {
 	background-image: url('/tutorial-CSS-sesi1/images/bookcafe.jpg');
 	background-size: cover; 
-	background-position: center; 
+	background-position: center;
+	background-repeat: no-repeat;
 }
 
 h1 {
