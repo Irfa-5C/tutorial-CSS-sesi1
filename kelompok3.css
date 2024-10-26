@@ -30,6 +30,12 @@ div, h5 {
 	border-radius: 10px;
 }
 
+
+body {
+	background-image: url("/presentasi/images/bookcafe.jpg") ;
+	background-position: center;
+}
+
 h1 {
 	color: black;
 	background-color: hsl(180, 100%, 25%) ;
